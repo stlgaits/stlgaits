@@ -36,6 +36,7 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 and onc
 [![CSS](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![Tailwind](https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/-javascript-FFDA3E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![StimulusJS](https://img.shields.io/badge/-stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=white)](https://stimulus.hotwired.dev/)
 [![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![VSCode](https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
