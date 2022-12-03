@@ -34,6 +34,7 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 and onc
 [![MariaDB](https://img.shields.io/badge/-mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.com/)
 [![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![CSS](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://tailwindcss.com/)
 [![Tailwind](https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/-javascript-FFDA3E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![StimulusJS](https://img.shields.io/badge/-stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=white)](https://stimulus.hotwired.dev/)
