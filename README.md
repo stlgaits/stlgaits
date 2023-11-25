@@ -19,10 +19,10 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 and onc
 
 [![Estelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=stlgaits&show_icons=true&theme=tokyonight)](https://github.com/stlgaits/github-readme-stats)
 
-- 🔭 I’m currently working on [Openclassrooms PHP / Symfony P8 project ToDo&Co](https://github.com/stlgaits/todo) : a Symfony 3.1 app which needs a bit of auditing, revamping, unit testing, debugging & new features.
-- 🌱 I’m currently learning DDD & CQRS.
-- 🧞 I would like to learn React.
-
+- 🔭 I’m currently working on my aunt's dancing studio website. 👯
+- 🌱 I’m currently learning React, DDD & CQRS.
+- 🧞 I would like to learn Sulu, Svelte and GO.
+- ⏱️ My last project was [Openclassrooms PHP / Symfony P8 project ToDo&Co](https://github.com/stlgaits/todo) : a Symfony 3.1 app which needs a bit of auditing, revamping, unit testing, debugging & new features.
 #### ✨ My battleground
 
 [![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -37,6 +37,7 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 and onc
 [![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://tailwindcss.com/)
 [![Tailwind](https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/-javascript-FFDA3E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-react-06B6D4?style=for-the-badge&logo=react&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/react)
 [![StimulusJS](https://img.shields.io/badge/-stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=white)](https://stimulus.hotwired.dev/)
 [![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![VSCode](https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
@@ -45,4 +46,5 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 and onc
 #### 📫 How to reach me
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/stlgaits)
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0A66C2)](https://www.linkedin.com/in/estellegaits/)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0769AD)](https://www.linkedin.com/in/estellegaits/)
+[![welovedevs](https://img.shields.io/badge/welovedevs-1727d6?style=for-the-badge)](https://estelle-gaits.welovedevs.com)
