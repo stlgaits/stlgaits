@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 and once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧.
+I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 
 
-[![Estelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=stlgaits&show_icons=true&theme=tokyonight)](https://github.com/stlgaits/github-readme-stats)
+Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
 
+<a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
+
+- ⚡ I'm a programmer analyst at Anaqua Services, an intellectual property company specialised in patents and trademarks renewals across the world.
 - 🔭 I’m currently working on my aunt's dancing studio website. 👯
 - 🌱 I’m currently learning React, DDD & CQRS.
-- 🧞 I would like to learn Sulu, Svelte and GO.
-- ⏱️ My last project was [Openclassrooms PHP / Symfony P8 project ToDo&Co](https://github.com/stlgaits/todo) : a Symfony 3.1 app which needs a bit of auditing, revamping, unit testing, debugging & new features.
+- 🧞 I would like to learn Sulu, Svelte and GO as well continue to explore API Platform.
+- ⏱️ My last project was [Openclassrooms PHP / Symfony P8 project ToDo&Co](https://github.com/stlgaits/todo) : a Symfony 3.1 app which I upgraded towards Symfony 6.4 and needed a bit of auditing, revamping, unit testing, debugging & new features.
+
 #### ✨ My battleground
 
 [![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
@@ -42,9 +46,11 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 and onc
 [![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![VSCode](https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-
 #### 📫 How to reach me
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/stlgaits)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0769AD)](https://www.linkedin.com/in/estellegaits/)
 [![welovedevs](https://img.shields.io/badge/welovedevs-1727d6?style=for-the-badge)](https://estelle-gaits.welovedevs.com)
+
+
+[![Estelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=stlgaits&show_icons=true&theme=tokyonight)](https://github.com/stlgaits/github-readme-stats)
