@@ -24,7 +24,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - ⚡ I'm a programmer analyst at Anaqua Services, an intellectual property company specialised in patents and trademarks renewals across the world.
 - 🔭 I’m currently working on my aunt's dancing studio website. 👯
 - 🌱 I’m currently learning React, DDD & CQRS.
-- 🧞 I would like to learn Sulu, Svelte and GO as well continue to explore API Platform.
+- 🧞 I would like to learn Sulu, Svelte and GO as well as continue to explore API Platform.
 - ⏱️ My last project was [Openclassrooms PHP / Symfony P8 project ToDo&Co](https://github.com/stlgaits/todo) : a Symfony 3.1 app which I upgraded towards Symfony 6.4 and needed a bit of auditing, revamping, unit testing, debugging & new features.
 
 #### ✨ My battleground
