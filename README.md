@@ -21,11 +21,9 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
 
-- ⚡ I'm a programmer analyst at Anaqua Services, an intellectual property company specialised in patents and trademarks renewals across the world.
-- 🔭 I’m currently working on my aunt's dancing studio website. 👯
-- 🌱 I’m currently learning React, DDD & CQRS.
+- ⚡ I'm a web developer at [Akawaka](https://www.akawaka.fr/)
+- 🌱 I’m currently learning Sylius and Sulu
 - 🧞 I would like to learn Sulu, Svelte and GO as well as continue to explore API Platform.
-- ⏱️ My last project was [Openclassrooms PHP / Symfony P8 project ToDo&Co](https://github.com/stlgaits/todo) : a Symfony 3.1 app which I upgraded towards Symfony 6.4 and needed a bit of auditing, revamping, unit testing, debugging & new features.
 
 #### ✨ My battleground
 
