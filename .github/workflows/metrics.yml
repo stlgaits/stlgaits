@@ -11,10 +11,10 @@ jobs:
         env:
           METRICS_CORE: "docker"
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          template: markdown
-          config_order: followup
-          plugin_followup: yes
-          plugin_followup_sections: prs
-          plugin_followup_indepth: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create, comment
