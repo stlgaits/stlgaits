@@ -1,0 +1,17 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity
+          plugin_issues: yes
+          plugin_issues_limit: 10
+          plugin_pullrequests: yes
+          plugin_pullrequests_limit: 10

@@ -21,12 +21,16 @@ I'm a [Sylius](https://github.com/Sylius/Sylius) Key Contributor <img width="32"
 
 Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
 
-
-<a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
-
 - ⚡ I'm a web developer at [Akawaka](https://www.akawaka.fr/)
 - 🌱 I’m currently learning all things AI and all that jazz
 - 🧞 I would like to learn Sulu, Svelte and GO as well as continue to explore API Platform.
+
+### My Latest contributions
+
+![Metrics](./metrics.svg)
+
+<a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
+
 
 #### ✨ My battleground
 
