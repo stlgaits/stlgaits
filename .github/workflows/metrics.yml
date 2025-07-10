@@ -6,10 +6,11 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
-          template: classic
           config_presets: full
+          template: classic
           config_order: followup
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -17,7 +18,5 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: prs
           plugin_followup_indepth: yes
-          plugin_issues: yes
-          plugin_issues_limit: 10
-          plugin_pullrequests: yes
-          plugin_pullrequests_limit: 10
+        env:
+          METRICS_CORE: "docker"
