@@ -25,12 +25,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - 🌱 I’m currently learning all things AI and all that jazz
 - 🧞 I would like to learn Sulu, Svelte and GO as well as continue to explore API Platform.
 
-### My Latest contributions
-
-![Metrics](./metrics.svg)
-
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
-
 
 #### ✨ My battleground
 
@@ -58,6 +53,3 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/stlgaits)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0769AD)](https://www.linkedin.com/in/estellegaits/)
 [![welovedevs](https://img.shields.io/badge/welovedevs-1727d6?style=for-the-badge)](https://estelle-gaits.welovedevs.com)
-
-
-[![Estelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=stlgaits&show_icons=true&theme=tokyonight)](https://github.com/stlgaits/github-readme-stats)
