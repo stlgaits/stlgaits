@@ -10,7 +10,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: activity
+          base: header, repositories
           plugin_followup: yes
           plugin_followup_sections: prs
           plugin_followup_indepth: yes
