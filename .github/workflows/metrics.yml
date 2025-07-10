@@ -11,6 +11,9 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity
+          plugin_followup: yes
+          plugin_followup_sections: prs
+          plugin_followup_indepth: yes
           plugin_issues: yes
           plugin_issues_limit: 10
           plugin_pullrequests: yes
