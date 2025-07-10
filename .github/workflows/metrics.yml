@@ -10,6 +10,7 @@ jobs:
         with:
           template: classic
           config_presets: full
+          config_order: followup
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
