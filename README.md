@@ -17,23 +17,28 @@ Here are some ideas to get you started:
 
 I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷 
 
+I'm a [Sylius](https://github.com/Sylius/Sylius) Key Contributor <img width="32" height="32" alt="sylius swan logo" src="https://github.com/user-attachments/assets/9a1264ee-3bfe-432d-a196-0d86bb621746" />, mostly focusing on the awesome [Sylius Stack](https://github.com/Sylius/Stack) project and its [docs](https://stack.sylius.com/).
+
 Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
+
 
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
 
 - ⚡ I'm a web developer at [Akawaka](https://www.akawaka.fr/)
-- 🌱 I’m currently learning Sylius and Sulu
+- 🌱 I’m currently learning all things AI and all that jazz
 - 🧞 I would like to learn Sulu, Svelte and GO as well as continue to explore API Platform.
 
 #### ✨ My battleground
 
 [![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Symfony](https://img.shields.io/badge/-symfony-black?style=for-the-badge&logo=Symfony&logoColor=white)](https://symfony.com/)
+[![Sylius](https://img.shields.io/badge/-sylius-1AD1A5?style=for-the-badge)](https://sylius.com/)
 [![PHPStorm](https://img.shields.io/badge/-phpstorm-purple?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![PHPStan](https://img.shields.io/badge/-phpstan-6C78AF?style=for-the-badge&logo=phpstan&logoColor=white)](https://phpstan.org/)
 [![PHPUnit](https://img.shields.io/badge/-phpunit-3775A9?style=for-the-badge&logo=phpunit&logoColor=white)](https://phpunit.de/)
 [![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MariaDB](https://img.shields.io/badge/-mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.com/)
+[![PostgreSQL](https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![CSS](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://tailwindcss.com/)
