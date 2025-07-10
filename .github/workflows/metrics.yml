@@ -6,17 +6,15 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
+      - name: Generate PR follow-up section
         uses: lowlighter/metrics@latest
+        env:
+          METRICS_CORE: "docker"
         with:
-          config_presets: full
-          template: classic
-          config_order: followup
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
+          filename: metrics.svg
+          template: markdown
+          config_order: followup
           plugin_followup: yes
           plugin_followup_sections: prs
           plugin_followup_indepth: yes
-        env:
-          METRICS_CORE: "docker"
