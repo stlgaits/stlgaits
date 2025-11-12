@@ -14,91 +14,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
 
-#### ⛵ Latest PRs :
-
-
-Title: add Web Summer Camp 2026
-URL: https://github.com/scraly/developers-conferences-agenda/pull/1765
-State: MERGED
-CreatedAt: 2 weeks ago
-Repository name: scraly/developers-conferences-agenda
-Repository description: developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
-Repository URL: https://github.com/scraly/developers-conferences-agenda
-
-Title: fix: [Docs][Hookables] display Twig templates examples
-URL: https://github.com/Sylius/Stack/pull/292
-State: CLOSED
-CreatedAt: 1 month ago
-Repository name: Sylius/Stack
-Repository description: The Sylius stack is a set of tools for your Symfony projects.
-Repository URL: https://github.com/Sylius/Stack
-
-Title: refactor: cleanup code
-URL: https://github.com/stlgaits/notifications-api/pull/17
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: stlgaits/notifications-api
-Repository description: Simple notifications API system
-Repository URL: https://github.com/stlgaits/notifications-api
-
-Title: docs: test setup &#43; possible next steps
-URL: https://github.com/stlgaits/notifications-api/pull/16
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: stlgaits/notifications-api
-Repository description: Simple notifications API system
-Repository URL: https://github.com/stlgaits/notifications-api
-
-Title: clean up unused code
-URL: https://github.com/stlgaits/notifications-api/pull/15
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: stlgaits/notifications-api
-Repository description: Simple notifications API system
-Repository URL: https://github.com/stlgaits/notifications-api
-
-Title: docs: architecture, components and next steps
-URL: https://github.com/stlgaits/notifications-api/pull/14
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: stlgaits/notifications-api
-Repository description: Simple notifications API system
-Repository URL: https://github.com/stlgaits/notifications-api
-
-Title: docs: add logging info
-URL: https://github.com/stlgaits/notifications-api/pull/13
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: stlgaits/notifications-api
-Repository description: Simple notifications API system
-Repository URL: https://github.com/stlgaits/notifications-api
-
-Title: store notification logs in separate file
-URL: https://github.com/stlgaits/notifications-api/pull/12
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: stlgaits/notifications-api
-Repository description: Simple notifications API system
-Repository URL: https://github.com/stlgaits/notifications-api
-
-Title: feat: add serialization groups
-URL: https://github.com/stlgaits/notifications-api/pull/11
-State: MERGED
-CreatedAt: 2 months ago
-Repository name: stlgaits/notifications-api
-Repository description: Simple notifications API system
-Repository URL: https://github.com/stlgaits/notifications-api
-
-
-#### 👷 Latest repos I've contributed to :
-
-
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (1 week ago)
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (1 week ago)
-- [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (1 month ago)
-- [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (2 months ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (2 months ago)
-
 #### 🔭 Latest releases I've contributed to :
 
 
@@ -107,6 +22,25 @@ Repository URL: https://github.com/stlgaits/notifications-api
 - [symfony/ux](https://github.com/symfony/ux) ([v2.31.0](https://github.com/symfony/ux/releases/tag/v2.31.0), 2 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.7](https://github.com/Sylius/Sylius/releases/tag/v2.1.7), 3 weeks ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.14.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.14.1), 3 weeks ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
+
+#### 👷 Latest projects I've contributed to :
+
+
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (1 week ago)
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (1 week ago)
+- [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (1 month ago)
+- [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (2 months ago)
+- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (2 months ago)
+
+#### ⛵ Latest PRs :
+
+
+- Title: add Web Summer Camp 2026 https://github.com/scraly/developers-conferences-agenda/pull/1765 (MERGED 2 weeks ago) scraly/developers-conferences-agenda developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. https://github.com/scraly/developers-conferences-agenda
+
+- Title: fix: [Docs][Hookables] display Twig templates examples https://github.com/Sylius/Stack/pull/292 (CLOSED 1 month ago) Sylius/Stack The Sylius stack is a set of tools for your Symfony projects. https://github.com/Sylius/Stack
+
+- Title: refactor: cleanup code https://github.com/stlgaits/notifications-api/pull/17 (MERGED 2 months ago) stlgaits/notifications-api Simple notifications API system https://github.com/stlgaits/notifications-api
+
 
 #### ✨ My battleground
 
