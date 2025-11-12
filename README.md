@@ -14,7 +14,84 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
 
-#### 👷 Latest contributions I've made :
+#### ⛵ Latest PRs :
+
+
+Title: add Web Summer Camp 2026
+URL: https://github.com/scraly/developers-conferences-agenda/pull/1765
+State: MERGED
+CreatedAt: 2 weeks ago
+Repository name: scraly/developers-conferences-agenda
+Repository description: developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
+Repository URL: https://github.com/scraly/developers-conferences-agenda
+
+Title: fix: [Docs][Hookables] display Twig templates examples
+URL: https://github.com/Sylius/Stack/pull/292
+State: CLOSED
+CreatedAt: 1 month ago
+Repository name: Sylius/Stack
+Repository description: The Sylius stack is a set of tools for your Symfony projects.
+Repository URL: https://github.com/Sylius/Stack
+
+Title: refactor: cleanup code
+URL: https://github.com/stlgaits/notifications-api/pull/17
+State: MERGED
+CreatedAt: 2 months ago
+Repository name: stlgaits/notifications-api
+Repository description: Simple notifications API system
+Repository URL: https://github.com/stlgaits/notifications-api
+
+Title: docs: test setup &#43; possible next steps
+URL: https://github.com/stlgaits/notifications-api/pull/16
+State: MERGED
+CreatedAt: 2 months ago
+Repository name: stlgaits/notifications-api
+Repository description: Simple notifications API system
+Repository URL: https://github.com/stlgaits/notifications-api
+
+Title: clean up unused code
+URL: https://github.com/stlgaits/notifications-api/pull/15
+State: MERGED
+CreatedAt: 2 months ago
+Repository name: stlgaits/notifications-api
+Repository description: Simple notifications API system
+Repository URL: https://github.com/stlgaits/notifications-api
+
+Title: docs: architecture, components and next steps
+URL: https://github.com/stlgaits/notifications-api/pull/14
+State: MERGED
+CreatedAt: 2 months ago
+Repository name: stlgaits/notifications-api
+Repository description: Simple notifications API system
+Repository URL: https://github.com/stlgaits/notifications-api
+
+Title: docs: add logging info
+URL: https://github.com/stlgaits/notifications-api/pull/13
+State: MERGED
+CreatedAt: 2 months ago
+Repository name: stlgaits/notifications-api
+Repository description: Simple notifications API system
+Repository URL: https://github.com/stlgaits/notifications-api
+
+Title: store notification logs in separate file
+URL: https://github.com/stlgaits/notifications-api/pull/12
+State: MERGED
+CreatedAt: 2 months ago
+Repository name: stlgaits/notifications-api
+Repository description: Simple notifications API system
+Repository URL: https://github.com/stlgaits/notifications-api
+
+Title: feat: add serialization groups
+URL: https://github.com/stlgaits/notifications-api/pull/11
+State: MERGED
+CreatedAt: 2 months ago
+Repository name: stlgaits/notifications-api
+Repository description: Simple notifications API system
+Repository URL: https://github.com/stlgaits/notifications-api
+
+
+#### 👷 Latest repos I've contributed to :
+
 
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (1 week ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (1 week ago)
@@ -23,6 +100,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (2 months ago)
 
 #### 🔭 Latest releases I've contributed to :
+
 
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.5.7](https://github.com/doctrine/orm/releases/tag/3.5.7), 1 day ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.18.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.18.1), 1 week ago) - Symfony Bundle for Doctrine ORM and DBAL
