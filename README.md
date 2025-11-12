@@ -35,11 +35,9 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-- Title: add Web Summer Camp 2026 https://github.com/scraly/developers-conferences-agenda/pull/1765 (MERGED 2 weeks ago) scraly/developers-conferences-agenda developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. https://github.com/scraly/developers-conferences-agenda
+- [add Web Summer Camp 2026](https://github.com/scraly/developers-conferences-agenda/pull/1765) (MERGED, 2 weeks ago) [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
 
-- Title: fix: [Docs][Hookables] display Twig templates examples https://github.com/Sylius/Stack/pull/292 (CLOSED 1 month ago) Sylius/Stack The Sylius stack is a set of tools for your Symfony projects. https://github.com/Sylius/Stack
-
-- Title: refactor: cleanup code https://github.com/stlgaits/notifications-api/pull/17 (MERGED 2 months ago) stlgaits/notifications-api Simple notifications API system https://github.com/stlgaits/notifications-api
+- [fix: [Docs][Hookables] display Twig templates examples](https://github.com/Sylius/Stack/pull/292) (CLOSED, 1 month ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
 
 
 #### ✨ My battleground
