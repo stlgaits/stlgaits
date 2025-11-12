@@ -27,29 +27,23 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
 
-#### ⛵ Latest PRs :
-
-{{range recentPullRequests 10}}
-Title: {{.Title}}
-URL: {{.URL}}
-State: {{.State}}
-CreatedAt: {{humanize .CreatedAt}}
-Repository name: {{.Repo.Name}}
-Repository description: {{.Repo.Description}}
-Repository URL: {{.Repo.URL}}
-{{end}}
-
-#### 👷 Latest repos I've contributed to :
-
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 #### 🔭 Latest releases I've contributed to :
 
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+
+#### 👷 Latest projects I've contributed to :
+
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### ⛵ Latest PRs :
+
+{{range recentPullRequests 5}}
+- Title: {{.Title}} {{.URL}} ({{.State}} {{humanize .CreatedAt}}) {{.Repo.Name}} {{.Repo.Description}} {{.Repo.URL}}
+{{end}}
 
 #### ✨ My battleground
 
