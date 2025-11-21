@@ -26,7 +26,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 👷 Latest projects I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 weeks ago)
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (today)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (3 weeks ago)
 - [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (1 month ago)
 - [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (2 months ago)
