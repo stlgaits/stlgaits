@@ -20,7 +20,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.5.7](https://github.com/doctrine/orm/releases/tag/3.5.7), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.18.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.18.1), 2 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/ux](https://github.com/symfony/ux) ([v2.31.0](https://github.com/symfony/ux/releases/tag/v2.31.0), 4 weeks ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.7](https://github.com/Sylius/Sylius/releases/tag/v2.1.7), 4 weeks ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.7](https://github.com/Sylius/Sylius/releases/tag/v2.1.7), 1 month ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.14.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.14.1), 1 month ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
 #### 👷 Latest projects I've contributed to :
