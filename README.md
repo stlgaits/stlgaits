@@ -18,7 +18,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 
 - [doctrine/orm](https://github.com/doctrine/orm) ([3.5.7](https://github.com/doctrine/orm/releases/tag/3.5.7), 2 weeks ago) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.18.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.18.1), 2 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([2.18.1](https://github.com/doctrine/DoctrineBundle/releases/tag/2.18.1), 3 weeks ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [symfony/ux](https://github.com/symfony/ux) ([v2.31.0](https://github.com/symfony/ux/releases/tag/v2.31.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.7](https://github.com/Sylius/Sylius/releases/tag/v2.1.7), 1 month ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.14.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.14.1), 1 month ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
@@ -26,7 +26,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 👷 Latest projects I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (4 days ago)
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (5 days ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (3 weeks ago)
 - [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (1 month ago)
 - [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (2 months ago)
@@ -35,7 +35,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-- [add Web Summer Camp 2026](https://github.com/scraly/developers-conferences-agenda/pull/1765) (MERGED, 3 weeks ago) [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
+- [add Web Summer Camp 2026](https://github.com/scraly/developers-conferences-agenda/pull/1765) (MERGED, 4 weeks ago) [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
 
 - [fix: [Docs][Hookables] display Twig templates examples](https://github.com/Sylius/Stack/pull/292) (CLOSED, 1 month ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
 
