@@ -17,9 +17,9 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.9](https://github.com/doctrine/orm/releases/tag/2.20.9), today) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([3.1.0](https://github.com/doctrine/DoctrineBundle/releases/tag/3.1.0), today) - Symfony Bundle for Doctrine ORM and DBAL
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.8](https://github.com/Sylius/Sylius/releases/tag/v2.1.8), 2 days ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
+- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.9](https://github.com/doctrine/orm/releases/tag/2.20.9), 1 day ago) - Doctrine Object Relational Mapper (ORM)
+- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([3.1.0](https://github.com/doctrine/DoctrineBundle/releases/tag/3.1.0), 1 day ago) - Symfony Bundle for Doctrine ORM and DBAL
+- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.8](https://github.com/Sylius/Sylius/releases/tag/v2.1.8), 3 days ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [symfony/ux](https://github.com/symfony/ux) ([v2.31.0](https://github.com/symfony/ux/releases/tag/v2.31.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.14.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.14.1), 1 month ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
@@ -28,8 +28,8 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (1 week ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (1 month ago)
-- [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (1 month ago)
-- [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (2 months ago)
+- [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (2 months ago)
+- [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (3 months ago)
 - [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (3 months ago)
 
 #### ⛵ Latest PRs :
