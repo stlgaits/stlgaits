@@ -17,11 +17,11 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
+- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.15.0-ALPHA.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.15.0-ALPHA.1), today) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.20.9](https://github.com/doctrine/orm/releases/tag/2.20.9), 5 days ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([3.1.0](https://github.com/doctrine/DoctrineBundle/releases/tag/3.1.0), 5 days ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.8](https://github.com/Sylius/Sylius/releases/tag/v2.1.8), 1 week ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
 - [symfony/ux](https://github.com/symfony/ux) ([v2.31.0](https://github.com/symfony/ux/releases/tag/v2.31.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
-- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.14.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.14.1), 1 month ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
 #### 👷 Latest projects I've contributed to :
 
