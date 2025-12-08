@@ -17,7 +17,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.15.0-ALPHA.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.15.0-ALPHA.1), 3 days ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
+- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.15.0-ALPHA.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.15.0-ALPHA.1), 4 days ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 - [doctrine/orm](https://github.com/doctrine/orm) ([2.20.9](https://github.com/doctrine/orm/releases/tag/2.20.9), 1 week ago) - Doctrine Object Relational Mapper (ORM)
 - [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([3.1.0](https://github.com/doctrine/DoctrineBundle/releases/tag/3.1.0), 1 week ago) - Symfony Bundle for Doctrine ORM and DBAL
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.8](https://github.com/Sylius/Sylius/releases/tag/v2.1.8), 1 week ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
