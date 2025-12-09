@@ -35,9 +35,9 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-- [add Web Summer Camp 2026](https://github.com/scraly/developers-conferences-agenda/pull/1765) (MERGED, 1 month ago) [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
+- [docs: add tabs for sylius vs sylius stack templatesDir and fix twig c…](https://github.com/Sylius/Stack/pull/316) (OPEN, today) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
 
-- [fix: [Docs][Hookables] display Twig templates examples](https://github.com/Sylius/Stack/pull/292) (CLOSED, 2 months ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
+- [add Web Summer Camp 2026](https://github.com/scraly/developers-conferences-agenda/pull/1765) (MERGED, 1 month ago) [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
 
 
 #### ✨ My battleground
