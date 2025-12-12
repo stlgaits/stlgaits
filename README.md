@@ -26,7 +26,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 👷 Latest projects I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 days ago)
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (3 days ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (1 month ago)
 - [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (2 months ago)
 - [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (3 months ago)
@@ -35,7 +35,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-- [docs: add tabs for sylius vs sylius stack templatesDir ](https://github.com/Sylius/Stack/pull/316) (OPEN, 2 days ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
+- [docs: add tabs for sylius vs sylius stack templatesDir ](https://github.com/Sylius/Stack/pull/316) (OPEN, 3 days ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
 
 - [add Web Summer Camp 2026](https://github.com/scraly/developers-conferences-agenda/pull/1765) (MERGED, 1 month ago) [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
 
