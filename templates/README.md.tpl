@@ -29,13 +29,13 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 #### 🔭 Latest releases I've contributed to :
 
-{{range recentReleases 5}}
+{{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### 👷 Latest projects I've contributed to :
 
-{{range recentContributions 5}}
+{{range recentContributions 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -43,7 +43,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) ({{.State}}, {{humanize .CreatedAt}}) [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
-{{end}}
+{{- end}}
 
 #### ✨ My battleground
 
