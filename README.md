@@ -36,6 +36,19 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 
 
+#### ⭐ Recent Stars
+
+- [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026
+(1 week ago)
+- [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+(1 month ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+(1 month ago)
+- [boutdecode/etl-core](https://github.com/boutdecode/etl-core) - ETL Core lib
+(6 months ago)
+- [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) - PHPStan rules for Symfony UX
+(10 months ago)
+
 #### ✨ My battleground
 
 [![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
