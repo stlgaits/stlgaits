@@ -45,6 +45,12 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [{{.Title}}]({{.URL}}) ({{.State}}, {{humanize .CreatedAt}}) [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
+#### ⭐ Recent Stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}}
+({{humanize .StarredAt}})
+{{- end }}
+
 #### ✨ My battleground
 
 [![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
