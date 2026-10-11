@@ -34,20 +34,8 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-Title: build: add conflict with twig/twig 3.29.0
-URL: https://github.com/Sylius/Stack/pull/383
-State: MERGED
-CreatedAt: 2 weeks ago
-Repository name: Sylius/Stack
-Repository description: The Sylius stack is a set of tools for your Symfony projects.
-Repository URL: https://github.com/Sylius/Stack
-Title: docs(cookbook): state machine transitions
-URL: https://github.com/Sylius/Stack/pull/381
-State: MERGED
-CreatedAt: 3 weeks ago
-Repository name: Sylius/Stack
-Repository description: The Sylius stack is a set of tools for your Symfony projects.
-Repository URL: https://github.com/Sylius/Stack
+- [build: add conflict with twig/twig 3.29.0](https://github.com/Sylius/Stack/pull/383) (MERGED, 2 weeks ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
+
 
 #### ✨ My battleground
 
