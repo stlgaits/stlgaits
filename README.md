@@ -17,27 +17,22 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.15.0-ALPHA.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.15.0-ALPHA.1), 1 week ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
-- [doctrine/orm](https://github.com/doctrine/orm) ([2.20.9](https://github.com/doctrine/orm/releases/tag/2.20.9), 1 week ago) - Doctrine Object Relational Mapper (ORM)
-- [doctrine/DoctrineBundle](https://github.com/doctrine/DoctrineBundle) ([3.1.0](https://github.com/doctrine/DoctrineBundle/releases/tag/3.1.0), 1 week ago) - Symfony Bundle for Doctrine ORM and DBAL
-- [Sylius/Sylius](https://github.com/Sylius/Sylius) ([v2.1.8](https://github.com/Sylius/Sylius/releases/tag/v2.1.8), 2 weeks ago) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
-- [symfony/ux](https://github.com/symfony/ux) ([v2.31.0](https://github.com/symfony/ux/releases/tag/v2.31.0), 1 month ago) - Symfony UX initiative: a JavaScript ecosystem for Symfony
+- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.1](https://github.com/Sylius/Stack/releases/tag/v0.14.1), 2 days ago) - The Sylius stack is a set of tools for your Symfony projects.
+- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 3 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
+- [scheb/2fa](https://github.com/scheb/2fa) ([v8.6.1](https://github.com/scheb/2fa/releases/tag/v8.6.1), 3 months ago) - Two-factor authentication for Symfony applications 🔐
+- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.6](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.6), 1 year ago) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
 
 #### 👷 Latest projects I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (3 days ago)
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (1 month ago)
-- [loic425/pole-position-on-the-grid](https://github.com/loic425/pole-position-on-the-grid) -  (2 months ago)
-- [stlgaits/notifications-api](https://github.com/stlgaits/notifications-api) - Simple notifications API system (3 months ago)
-- [symfony/ux](https://github.com/symfony/ux) - Symfony UX initiative: a JavaScript ecosystem for Symfony (3 months ago)
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 weeks ago)
+- [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (3 months ago)
+- [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (3 months ago)
+- [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (4 months ago)
+- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types. (5 months ago)
 
 #### ⛵ Latest PRs :
 
-
-- [docs: add tabs for sylius vs sylius stack templatesDir ](https://github.com/Sylius/Stack/pull/316) (OPEN, 3 days ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
-
-- [add Web Summer Camp 2026](https://github.com/scraly/developers-conferences-agenda/pull/1765) (MERGED, 1 month ago) [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
 
 
 #### ✨ My battleground
