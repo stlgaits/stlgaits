@@ -34,8 +34,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-- No PRs returned
-
 
 #### ✨ My battleground
 
