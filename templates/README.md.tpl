@@ -43,6 +43,8 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) ({{.State}}, {{humanize .CreatedAt}}) [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+{{else}}
+- No pull requests returned by readme-scribe.
 {{end}}
 
 #### ✨ My battleground
