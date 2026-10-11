@@ -34,8 +34,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-- [build: add conflict with twig/twig 3.29.0](https://github.com/Sylius/Stack/pull/383) (MERGED, 2 weeks ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
-
 
 #### ✨ My battleground
 
