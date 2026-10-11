@@ -42,9 +42,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 {{range recentPullRequests 10}}
-- {{.Title}} — {{.Repo.Name}}
-{{else}}
-- No PRs returned
+- [{{.Title}}]({{.URL}}) ({{.State}}, {{humanize .CreatedAt}}) [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{end}}
 
 #### ✨ My battleground
