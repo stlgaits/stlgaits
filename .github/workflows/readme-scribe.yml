@@ -3,7 +3,7 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   markscribe:
@@ -13,8 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.head_ref }}
 
       - uses: muesli/readme-scribe@master
         env:
