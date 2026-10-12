@@ -17,7 +17,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.1](https://github.com/Sylius/Stack/releases/tag/v0.14.1), 2 days ago) - The Sylius stack is a set of tools for your Symfony projects.
+- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.1](https://github.com/Sylius/Stack/releases/tag/v0.14.1), 3 days ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 3 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 - [scheb/2fa](https://github.com/scheb/2fa) ([v8.6.1](https://github.com/scheb/2fa/releases/tag/v8.6.1), 3 months ago) - Two-factor authentication for Symfony applications 🔐
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.6](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.6), 1 year ago) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
@@ -25,11 +25,11 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 👷 Latest projects I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 weeks ago)
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (3 weeks ago)
 - [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (3 months ago)
 - [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (3 months ago)
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (4 months ago)
-- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types. (5 months ago)
+- [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types. (6 months ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (11 months ago)
 
 #### ⛵ Latest PRs :
