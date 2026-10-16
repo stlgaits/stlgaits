@@ -17,7 +17,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.1](https://github.com/Sylius/Stack/releases/tag/v0.14.1), 6 days ago) - The Sylius stack is a set of tools for your Symfony projects.
+- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.1](https://github.com/Sylius/Stack/releases/tag/v0.14.1), 1 week ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 3 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 - [scheb/2fa](https://github.com/scheb/2fa) ([v8.6.1](https://github.com/scheb/2fa/releases/tag/v8.6.1), 3 months ago) - Two-factor authentication for Symfony applications 🔐
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) ([v1.0.6](https://github.com/scraly/developers-conferences-agenda/releases/tag/v1.0.6), 1 year ago) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees.
@@ -43,9 +43,9 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026
 (2 weeks ago)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-(1 month ago)
+(2 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-(1 month ago)
+(2 months ago)
 - [boutdecode/etl-core](https://github.com/boutdecode/etl-core) - ETL Core lib
 (6 months ago)
 - [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) - PHPStan rules for Symfony UX
