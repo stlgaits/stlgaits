@@ -25,7 +25,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 👷 Latest projects I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (3 weeks ago)
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (4 weeks ago)
 - [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (3 months ago)
 - [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (3 months ago)
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (4 months ago)
