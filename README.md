@@ -25,7 +25,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 👷 Latest projects I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (4 weeks ago)
+- [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (1 month ago)
 - [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (3 months ago)
 - [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (3 months ago)
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (4 months ago)
@@ -40,6 +40,8 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 #### ⭐ Recent Stars
 
+- [bakslashHQ/static-site-bundle](https://github.com/bakslashHQ/static-site-bundle) - Prerender your Symfony routes into a static site, ready to serve from any static host or CDN.
+(1 day ago)
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026
 (3 weeks ago)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
@@ -48,8 +50,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 (2 months ago)
 - [boutdecode/etl-core](https://github.com/boutdecode/etl-core) - ETL Core lib
 (6 months ago)
-- [Kocal/phpstan-symfony-ux](https://github.com/Kocal/phpstan-symfony-ux) - PHPStan rules for Symfony UX
-(11 months ago)
 
 #### ✨ My battleground
 
