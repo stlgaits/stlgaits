@@ -26,8 +26,8 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (1 month ago)
-- [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (3 months ago)
-- [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (3 months ago)
+- [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (4 months ago)
+- [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (4 months ago)
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (4 months ago)
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types. (6 months ago)
 - [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (11 months ago)
@@ -41,7 +41,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⭐ Recent Stars
 
 - [bakslashHQ/static-site-bundle](https://github.com/bakslashHQ/static-site-bundle) - Prerender your Symfony routes into a static site, ready to serve from any static host or CDN.
-(1 day ago)
+(2 days ago)
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides showed during the ApiPlatformCon 2026
 (3 weeks ago)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
