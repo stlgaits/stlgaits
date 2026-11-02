@@ -17,7 +17,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [scheb/2fa](https://github.com/scheb/2fa) ([v8.7.0](https://github.com/scheb/2fa/releases/tag/v8.7.0), 2 days ago) - Two-factor authentication for Symfony applications 🔐
+- [scheb/2fa](https://github.com/scheb/2fa) ([v8.7.0](https://github.com/scheb/2fa/releases/tag/v8.7.0), 3 days ago) - Two-factor authentication for Symfony applications 🔐
 - [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.1](https://github.com/Sylius/Stack/releases/tag/v0.14.1), 3 weeks ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 3 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
@@ -29,7 +29,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (4 months ago)
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (5 months ago)
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types. (6 months ago)
-- [scraly/developers-conferences-agenda](https://github.com/scraly/developers-conferences-agenda) - developers.events is a community-driven platform listing developer/tech conferences and Calls for Papers (CFPs) worldwide with a list, a calendar and a map view. It helps organizers, speakers, sponsors &amp; attendees. (1 year ago)
 
 #### ⛵ Latest PRs :
 
@@ -39,6 +38,8 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 #### ⭐ Recent Stars
 
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+(1 day ago)
 - [bakslashHQ/static-site-bundle](https://github.com/bakslashHQ/static-site-bundle) - Prerender your Symfony routes into a static site, ready to serve from any static host or CDN.
 (1 week ago)
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides from ApiPlatformCon 2026.
@@ -47,8 +48,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 (2 months ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 (2 months ago)
-- [boutdecode/etl-core](https://github.com/boutdecode/etl-core) - ETL Core lib
-(6 months ago)
 
 #### ✨ My battleground
 
