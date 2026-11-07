@@ -39,7 +39,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⭐ Recent Stars
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-(5 days ago)
+(6 days ago)
 - [bakslashHQ/static-site-bundle](https://github.com/bakslashHQ/static-site-bundle) - Prerender your Symfony routes into a static site, ready to serve from any static host or CDN.
 (2 weeks ago)
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides from ApiPlatformCon 2026.
