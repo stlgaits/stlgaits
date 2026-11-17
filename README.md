@@ -17,14 +17,14 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.3](https://github.com/Sylius/Stack/releases/tag/v0.14.3), 4 days ago) - The Sylius stack is a set of tools for your Symfony projects.
+- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.3](https://github.com/Sylius/Stack/releases/tag/v0.14.3), 5 days ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [scheb/2fa](https://github.com/scheb/2fa) ([v8.7.0](https://github.com/scheb/2fa/releases/tag/v8.7.0), 2 weeks ago) - Two-factor authentication for Symfony applications 🔐
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 4 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
 #### 👷 Latest projects I've contributed to :
 
 
-- [opencolibri/starter](https://github.com/opencolibri/starter) -  (3 days ago)
+- [opencolibri/starter](https://github.com/opencolibri/starter) -  (4 days ago)
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (1 month ago)
 - [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (4 months ago)
 - [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (4 months ago)
@@ -42,7 +42,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 (2 weeks ago)
 - [bakslashHQ/static-site-bundle](https://github.com/bakslashHQ/static-site-bundle) - Prerender your Symfony routes into a static site, ready to serve from any static host or CDN.
-(3 weeks ago)
+(4 weeks ago)
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides from ApiPlatformCon 2026.
 (1 month ago)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
