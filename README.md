@@ -17,7 +17,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [scheb/2fa](https://github.com/scheb/2fa) ([v7.15.0](https://github.com/scheb/2fa/releases/tag/v7.15.0), 1 day ago) - Two-factor authentication for Symfony applications 🔐
+- [scheb/2fa](https://github.com/scheb/2fa) ([v7.16.0](https://github.com/scheb/2fa/releases/tag/v7.16.0), 1 day ago) - Two-factor authentication for Symfony applications 🔐
 - [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.3](https://github.com/Sylius/Stack/releases/tag/v0.14.3), 1 week ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 4 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
@@ -26,8 +26,8 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 - [opencolibri/starter](https://github.com/opencolibri/starter) -  (1 week ago)
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 months ago)
-- [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (4 months ago)
-- [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (4 months ago)
+- [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (5 months ago)
+- [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (5 months ago)
 - [scheb/2fa](https://github.com/scheb/2fa) - Two-factor authentication for Symfony applications 🔐 (5 months ago)
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types. (7 months ago)
 
