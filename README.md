@@ -17,7 +17,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [scheb/2fa](https://github.com/scheb/2fa) ([v8.8.1](https://github.com/scheb/2fa/releases/tag/v8.8.1), 1 day ago) - Two-factor authentication for Symfony applications 🔐
+- [scheb/2fa](https://github.com/scheb/2fa) ([v8.8.1](https://github.com/scheb/2fa/releases/tag/v8.8.1), 2 days ago) - Two-factor authentication for Symfony applications 🔐
 - [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.3](https://github.com/Sylius/Stack/releases/tag/v0.14.3), 1 week ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 4 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
