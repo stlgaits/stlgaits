@@ -82,3 +82,4 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/stlgaits)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0769AD)](https://www.linkedin.com/in/estellegaits/)
 [![welovedevs](https://img.shields.io/badge/welovedevs-1727d6?style=for-the-badge)](https://estelle-gaits.welovedevs.com)
+[![dev-null](https://img.shields.io/badge/-%2Fdev%2Fnull-ff8a4c?style=for-the-badge&logo=gnubash&logoColor=white)](https://dev-null.sh/@stlgaits)
