@@ -1,16 +1,16 @@
 ### Adishatz 👋
 
+
+
 I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷
 
 I'm a [Sylius](https://github.com/Sylius/Sylius) Key Contributor <img width="32" height="32" alt="sylius swan logo" src="https://github.com/user-attachments/assets/9a1264ee-3bfe-432d-a196-0d86bb621746" />, mostly focusing on the awesome [Sylius Stack](https://github.com/Sylius/Stack) project and its [docs](https://stack.sylius.com/).
-
-I am also a member of the [OpenColibri](https://opencolibri.org/fr/) initiative : an Open Source foundation for e-commerce plugins and tools.
 
 Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
 
 - ⚡ I'm a web developer at [Akawaka](https://www.akawaka.fr/)
 - 🌱 I’m currently learning all things AI and all that jazz
-- 🧞 I would like to learn Sulu and GO as well as continue to explore API Platform.
+- 🧞 I would like to learn Sulu, Svelte and GO as well as continue to explore API Platform.
 
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
 
@@ -24,6 +24,7 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 👷 Latest projects I've contributed to :
 
 
+- [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser. (today)
 - [opencolibri/starter](https://github.com/opencolibri/starter) - Website and documentation of Colibri Starter (starter.opencolibri.org) (2 weeks ago)
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 months ago)
 - [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (5 months ago)
@@ -34,24 +35,68 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
-- [Update French flash message assertions for gender-neutral translations](https://github.com/Sylius/Stack/pull/424) (OPEN, 1 day ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
+- [test: add mutation testing with Stryker on the layout and i18n logic](https://github.com/stlgaits/linkedin-banner-preview/pull/10) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [refactor: migrate to TypeScript (strict)](https://github.com/stlgaits/linkedin-banner-preview/pull/9) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [test: add Playwright end-to-end tests and run them in CI](https://github.com/stlgaits/linkedin-banner-preview/pull/8) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [docs: link the live demo, deploy to Pages on every push to main](https://github.com/stlgaits/linkedin-banner-preview/pull/7) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [docs: add contributing guide, issue and PR templates](https://github.com/stlgaits/linkedin-banner-preview/pull/6) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
 
 
-Title: Update French flash message assertions for gender-neutral translations
-URL: https://github.com/Sylius/Stack/pull/424
-State: OPEN
+Title: test: add mutation testing with Stryker on the layout and i18n logic
+URL: https://github.com/stlgaits/linkedin-banner-preview/pull/10
+State: MERGED
+CreatedAt: today
+Repository name: stlgaits/linkedin-banner-preview
+Repository description: Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+Repository URL: https://github.com/stlgaits/linkedin-banner-preview
+
+Title: refactor: migrate to TypeScript (strict)
+URL: https://github.com/stlgaits/linkedin-banner-preview/pull/9
+State: MERGED
+CreatedAt: today
+Repository name: stlgaits/linkedin-banner-preview
+Repository description: Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+Repository URL: https://github.com/stlgaits/linkedin-banner-preview
+
+Title: test: add Playwright end-to-end tests and run them in CI
+URL: https://github.com/stlgaits/linkedin-banner-preview/pull/8
+State: MERGED
+CreatedAt: today
+Repository name: stlgaits/linkedin-banner-preview
+Repository description: Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+Repository URL: https://github.com/stlgaits/linkedin-banner-preview
+
+Title: docs: link the live demo, deploy to Pages on every push to main
+URL: https://github.com/stlgaits/linkedin-banner-preview/pull/7
+State: MERGED
+CreatedAt: today
+Repository name: stlgaits/linkedin-banner-preview
+Repository description: Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+Repository URL: https://github.com/stlgaits/linkedin-banner-preview
+
+Title: docs: add contributing guide, issue and PR templates
+URL: https://github.com/stlgaits/linkedin-banner-preview/pull/6
+State: MERGED
+CreatedAt: today
+Repository name: stlgaits/linkedin-banner-preview
+Repository description: Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+Repository URL: https://github.com/stlgaits/linkedin-banner-preview
+
+Title: Docs profile and company
+URL: https://github.com/stlgaits/linkedin-banner-preview/pull/5
+State: MERGED
+CreatedAt: today
+Repository name: stlgaits/linkedin-banner-preview
+Repository description: Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+Repository URL: https://github.com/stlgaits/linkedin-banner-preview
+
+Title: refactor: split into ES modules with Vite, add lint, tests and CI
+URL: https://github.com/stlgaits/linkedin-banner-preview/pull/4
+State: MERGED
 CreatedAt: 1 day ago
-Repository name: Sylius/Stack
-Repository description: The Sylius stack is a set of tools for your Symfony projects.
-Repository URL: https://github.com/Sylius/Stack
-
-Title: WIP: avoid duplicate resource metadata
-URL: https://github.com/stlgaits/SyliusResourceBundle/pull/1
-State: OPEN
-CreatedAt: 1 day ago
-Repository name: stlgaits/SyliusResourceBundle
-Repository description: Simpler CRUD for Symfony applications
-Repository URL: https://github.com/stlgaits/SyliusResourceBundle
+Repository name: stlgaits/linkedin-banner-preview
+Repository description: Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+Repository URL: https://github.com/stlgaits/linkedin-banner-preview
 
 
 #### ⭐ Recent Stars
