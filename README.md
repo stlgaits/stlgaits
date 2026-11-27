@@ -1,16 +1,16 @@
 ### Adishatz 👋
 
-
-
 I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷
 
 I'm a [Sylius](https://github.com/Sylius/Sylius) Key Contributor <img width="32" height="32" alt="sylius swan logo" src="https://github.com/user-attachments/assets/9a1264ee-3bfe-432d-a196-0d86bb621746" />, mostly focusing on the awesome [Sylius Stack](https://github.com/Sylius/Stack) project and its [docs](https://stack.sylius.com/).
+
+I am also a member of the [OpenColibri](https://opencolibri.org/fr/) initiative : an Open Source foundation for e-commerce plugins and tools.
 
 Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
 
 - ⚡ I'm a web developer at [Akawaka](https://www.akawaka.fr/)
 - 🌱 I’m currently learning all things AI and all that jazz
-- 🧞 I would like to learn Sulu, Svelte and GO as well as continue to explore API Platform.
+- 🧞 I would like to learn Sulu and GO as well as continue to explore API Platform.
 
 <a href="https://app.daily.dev/totoche65"><img src="https://api.daily.dev/devcards/v2/lkOjEJZXhDtgRgPCow8uC.png?type=default&r=hcf" width="356" alt="Estelle Gaits's Dev Card"/></a>
 
