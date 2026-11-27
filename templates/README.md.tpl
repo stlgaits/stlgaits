@@ -77,6 +77,10 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 [![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![VSCode](https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
+#### 🌿 My activity on /dev/null
+
+[![My /dev/null activity graph](https://dev-null.sh/@stlgaits/graph.svg)](https://dev-null.sh/@stlgaits)
+
 #### 📫 How to reach me
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/stlgaits)
