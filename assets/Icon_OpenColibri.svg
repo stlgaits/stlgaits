@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Texte" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 240.75 215.08">
+  <!-- Generator: Adobe Illustrator 31.0.0, SVG Export Plug-In . SVG Version: 2.1.5 Build 84)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Dégradé_sans_nom_69);
+        opacity: .61;
+      }
+
+      .st1 {
+        fill: #271d67;
+      }
+
+      .st2 {
+        fill: #43b8ad;
+      }
+
+      .st3 {
+        fill: #1d1e1b;
+      }
+
+      .st4 {
+        fill: url(#Dégradé_sans_nom_150);
+      }
+
+      .st5 {
+        fill: url(#Dégradé_sans_nom_728);
+      }
+
+      .st6 {
+        fill: url(#Dégradé_sans_nom_646);
+      }
+
+      .st7 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_646" data-name="Dégradé sans nom 646" x1="78.13" y1="147.08" x2="186" y2="69.04" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e7325c"/>
+      <stop offset=".39" stop-color="#f28731"/>
+      <stop offset=".7" stop-color="#fbc712"/>
+      <stop offset=".85" stop-color="#ffe006"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_728" data-name="Dégradé sans nom 728" x1="70.58" y1="144.42" x2="154.06" y2="126.99" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c43773"/>
+      <stop offset="1" stop-color="#f07e33"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_150" data-name="Dégradé sans nom 150" x1="41.94" y1="164.33" x2="117.12" y2="164.33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#494395"/>
+      <stop offset="1" stop-color="#a7367b"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_69" data-name="Dégradé sans nom 69" x1="14.22" y1="87.9" x2="125.74" y2="87.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#009fe3"/>
+      <stop offset=".3" stop-color="#0c75bb"/>
+      <stop offset=".77" stop-color="#1f357e"/>
+      <stop offset="1" stop-color="#271d67"/>
+    </linearGradient>
+  </defs>
+  <path class="st6" d="M175.08,65.82s-8.45-3.3-16.51-2.25-18.76,7-21.93,15.72c-3.17,8.72-26.68,24.83-39.88,27.94-6.34,7.59-6.34,7.46-15.32,17.23-8.99,9.78-24.97,27.87-29.85,38.17-4.89,10.3-9.78,26.68-9.65,34.41,9.12-10.5,22.18-26.5,30.91-32.03,44.38-28.13,49.83-19.35,65.12-31.7C164.78,111.65,151.3,89.2,175.08,65.82Z"/>
+  <path class="st5" d="M98.78,150.31c38.12-29.61,26.96-58.24,26.77-58.72-7.57-4.45-7.74-4.19-15.42-1.4-1.44.52-12.1,16.74-13.37,17.04-6.34,7.59-6.34,7.46-15.32,17.23-8.99,9.78-24.97,27.87-29.85,38.17-4.89,10.3-9.78,26.68-9.65,34.41,9.12-10.5,22.18-26.5,30.91-32.03,10.67-6.76,19.09-11.39,25.93-14.7C98.78,150.31,98.78,150.31,98.78,150.31Z"/>
+  <path class="st4" d="M98.78,150.31c8.19-6.36,14.11-12.68,18.34-18.68-11.95,11.04-30.45,10.96-45.24,17.12-6.44,2.68-13.69,7.89-19.82,12.92q-.25.49-.47.96c-4.89,10.3-9.78,26.68-9.65,34.41,9.12-10.5,22.18-26.5,30.91-32.03,10.67-6.76,19.09-11.39,25.93-14.7C98.78,150.31,98.78,150.31,98.78,150.31Z"/>
+  <path class="st2" d="M136.64,79.29c3.17-8.72,13.87-14.66,21.93-15.72,7.38-.96,15.09,1.72,16.33,2.18-1.09-2.95-2.45-5.7-4.06-7.28-4.85-4.76-22.1-10.92-34.08-2.91-11.97,8.01-13.21,21.57-13.21,25.62,0,5.54-.24,9.54-.54,12.36C129.79,88.52,135.23,83.17,136.64,79.29Z"/>
+  <path class="st2" d="M125.74,91.39c-.18-10.57-13.43-33.82-39.49-47.11C46.21,23.85,15.93,18.04,15.93,18.04c0,0,5.69,41.97,43.29,67.51C96.82,111.08,118.36,98.97,125.74,91.39Z"/>
+  <circle class="st3" cx="158.16" cy="64.37" r="4.93"/>
+  <circle class="st7" cx="158.47" cy="62.96" r="1.41"/>
+  <path class="st1" d="M164.72,63.36s6.2-2.17,6.51-4.48l-.64-.65s36.08-7.91,53.96-7.56c1.06.27,1.94.89,1.98,1.02s-1.01.66-1.94.79-30.92,3.7-49.69,13.27C173.12,65.16,169.34,64.43,164.72,63.36Z"/>
+  <path class="st0" d="M125.74,91.39s-22.24-21.1-48.3-23.65-52.39-1.06-63.22,2.64c5.46,11.18,25.27,35.17,51.51,38.21C97.6,112.29,111.93,101.66,125.74,91.39Z"/>
+</svg>

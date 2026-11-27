@@ -19,7 +19,7 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷
 
 I'm a [Sylius](https://github.com/Sylius/Sylius) Key Contributor <img width="32" height="32" alt="sylius swan logo" src="https://github.com/user-attachments/assets/9a1264ee-3bfe-432d-a196-0d86bb621746" />, mostly focusing on the awesome [Sylius Stack](https://github.com/Sylius/Stack) project and its [docs](https://stack.sylius.com/).
 
-I'm also a member of the [OpenColibri](https://opencolibri.org) initiative <img height="32" alt="OpenColibri logo" src="assets/OpenColibri.svg" />, an Open Source foundation for e-commerce plugins and tools.
+I'm also a member of the [OpenColibri](https://opencolibri.org) initiative <img height="32" alt="OpenColibri icon" src="assets/Icon_OpenColibri.svg" />, an Open Source foundation for e-commerce plugins and tools.
 
 Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
 
