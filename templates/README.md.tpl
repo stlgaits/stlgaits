@@ -77,9 +77,13 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 [![jQuery](https://img.shields.io/badge/-jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![VSCode](https://img.shields.io/badge/-visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
+#### 🌿 My activity on /dev/null
+
+[![My /dev/null activity graph](https://dev-null.sh/@stlgaits/graph.svg)](https://dev-null.sh/@stlgaits)
+
 #### 📫 How to reach me
 
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/stlgaits)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=#0769AD)](https://www.linkedin.com/in/estellegaits/)
 [![welovedevs](https://img.shields.io/badge/welovedevs-1727d6?style=for-the-badge)](https://estelle-gaits.welovedevs.com)
-[![dev-null](https://img.shields.io/badge/-%2Fdev%2Fnull-ff8a4c?style=for-the-badge&logo=gnubash&logoColor=white)](https://dev-null.sh/@stlgaits)
+[![dev-null](https://img.shields.io/badge/-%2Fdev%2Fnull-ff8a4c?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjEuNiAxLjUgNDUgNDUiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0yIDQyaDEwTDI2IDZIMTZaIi8%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNy44MSA0My41aDEzLjIyTDQ2LjE5IDQuNUgzMi45N1pNMjIuMTkgNDAuNWwxMi44NC0zM2g2Ljc4bC0xMi44NCAzM1oiLz48L3N2Zz4K)](https://dev-null.sh/@stlgaits)
