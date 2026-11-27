@@ -17,14 +17,14 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [scheb/2fa](https://github.com/scheb/2fa) ([v8.8.1](https://github.com/scheb/2fa/releases/tag/v8.8.1), 3 days ago) - Two-factor authentication for Symfony applications 🔐
+- [scheb/2fa](https://github.com/scheb/2fa) ([v8.8.1](https://github.com/scheb/2fa/releases/tag/v8.8.1), 4 days ago) - Two-factor authentication for Symfony applications 🔐
 - [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.3](https://github.com/Sylius/Stack/releases/tag/v0.14.3), 2 weeks ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 4 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
 #### 👷 Latest projects I've contributed to :
 
 
-- [opencolibri/starter](https://github.com/opencolibri/starter) -  (1 week ago)
+- [opencolibri/starter](https://github.com/opencolibri/starter) - Website and documentation of Colibri Starter (starter.opencolibri.org) (2 weeks ago)
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 months ago)
 - [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (5 months ago)
 - [Sylius/UiTranslations](https://github.com/Sylius/UiTranslations) - [READ-ONLY] (5 months ago)
@@ -34,7 +34,24 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### ⛵ Latest PRs :
 
 
+- [Update French flash message assertions for gender-neutral translations](https://github.com/Sylius/Stack/pull/424) (OPEN, 1 day ago) [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects.
 
+
+Title: Update French flash message assertions for gender-neutral translations
+URL: https://github.com/Sylius/Stack/pull/424
+State: OPEN
+CreatedAt: 1 day ago
+Repository name: Sylius/Stack
+Repository description: The Sylius stack is a set of tools for your Symfony projects.
+Repository URL: https://github.com/Sylius/Stack
+
+Title: WIP: avoid duplicate resource metadata
+URL: https://github.com/stlgaits/SyliusResourceBundle/pull/1
+State: OPEN
+CreatedAt: 1 day ago
+Repository name: stlgaits/SyliusResourceBundle
+Repository description: Simpler CRUD for Symfony applications
+Repository URL: https://github.com/stlgaits/SyliusResourceBundle
 
 
 #### ⭐ Recent Stars
