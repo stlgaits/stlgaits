@@ -1,12 +1,12 @@
 ### Adishatz 👋
 
-
-
-I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷
+I'm Estelle. I am a PHP / Symfony backend developer from France.
 
 I'm a [Sylius](https://github.com/Sylius/Sylius) Key Contributor <img width="32" height="32" alt="sylius swan logo" src="https://github.com/user-attachments/assets/9a1264ee-3bfe-432d-a196-0d86bb621746" />, mostly focusing on the awesome [Sylius Stack](https://github.com/Sylius/Stack) project and its [docs](https://stack.sylius.com/).
 
-Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
+I'm also a member of the [OpenColibri](https://opencolibri.org) initiative, an Open Source foundation for e-commerce plugins and tools.
+
+Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London.
 
 - ⚡ I'm a web developer at [Akawaka](https://www.akawaka.fr/)
 - 🌱 I’m currently learning all things AI and all that jazz
@@ -16,13 +16,11 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 #### 🔭 Latest releases I've contributed to :
 
-
 - [scheb/2fa](https://github.com/scheb/2fa) ([v8.8.1](https://github.com/scheb/2fa/releases/tag/v8.8.1), 4 days ago) - Two-factor authentication for Symfony applications 🔐
 - [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.14.3](https://github.com/Sylius/Stack/releases/tag/v0.14.3), 2 weeks ago) - The Sylius stack is a set of tools for your Symfony projects.
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 4 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
 #### 👷 Latest projects I've contributed to :
-
 
 - [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser. (today)
 - [opencolibri/starter](https://github.com/opencolibri/starter) - Website and documentation of Colibri Starter (starter.opencolibri.org) (2 weeks ago)
@@ -33,7 +31,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types. (7 months ago)
 
 #### ⛵ Latest PRs :
-
 
 - [test: add mutation testing with Stryker on the layout and i18n logic](https://github.com/stlgaits/linkedin-banner-preview/pull/10) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
 - [refactor: migrate to TypeScript (strict)](https://github.com/stlgaits/linkedin-banner-preview/pull/9) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
