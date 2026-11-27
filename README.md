@@ -6,7 +6,7 @@ I'm Estelle. I am a PHP / Symfony backend developer from France 🇫🇷
 
 I'm a [Sylius](https://github.com/Sylius/Sylius) Key Contributor <img width="32" height="32" alt="sylius swan logo" src="https://github.com/user-attachments/assets/9a1264ee-3bfe-432d-a196-0d86bb621746" />, mostly focusing on the awesome [Sylius Stack](https://github.com/Sylius/Stack) project and its [docs](https://stack.sylius.com/).
 
-I'm also a member of the [OpenColibri](https://opencolibri.org) initiative, an Open Source foundation for e-commerce plugins and tools.
+I'm also a member of the [OpenColibri](https://opencolibri.org) initiative <img height="32" alt="OpenColibri logo" src="assets/OpenColibri.svg" />, an Open Source foundation for e-commerce plugins and tools.
 
 Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in London 🇬🇧
 
@@ -40,7 +40,6 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 - [test: add mutation testing with Stryker on the layout and i18n logic](https://github.com/stlgaits/linkedin-banner-preview/pull/10) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
 - [refactor: migrate to TypeScript (strict)](https://github.com/stlgaits/linkedin-banner-preview/pull/9) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
 - [test: add Playwright end-to-end tests and run them in CI](https://github.com/stlgaits/linkedin-banner-preview/pull/8) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
-- [docs: link the live demo, deploy to Pages on every push to main](https://github.com/stlgaits/linkedin-banner-preview/pull/7) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
 
 
 Title: test: add mutation testing with Stryker on the layout and i18n logic
