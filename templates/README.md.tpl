@@ -43,8 +43,11 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 #### ⛵ Latest PRs :
 
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) ({{.State}}, {{humanize .CreatedAt}}) [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+{{- /* markscribe fetches count+1 PRs, then drops private repos, so over-fetch and keep the first 5 */}}
+{{range $i, $pr := recentPullRequests 20}}
+{{- if lt $i 5}}
+- [{{$pr.Title}}]({{$pr.URL}}) ({{$pr.State}}, {{humanize $pr.CreatedAt}}) [{{$pr.Repo.Name}}]({{$pr.Repo.URL}}) - {{$pr.Repo.Description}}
+{{- end}}
 {{- end}}
 
 #### ⭐ Recent Stars
