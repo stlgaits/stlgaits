@@ -19,14 +19,14 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 #### 🔭 Latest releases I've contributed to :
 
 
-- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.15.0](https://github.com/Sylius/Stack/releases/tag/v0.15.0), today) - The Sylius stack is a set of tools for your Symfony projects.
-- [scheb/2fa](https://github.com/scheb/2fa) ([v8.8.1](https://github.com/scheb/2fa/releases/tag/v8.8.1), 4 days ago) - Two-factor authentication for Symfony applications 🔐
+- [Sylius/Stack](https://github.com/Sylius/Stack) ([v0.15.0](https://github.com/Sylius/Stack/releases/tag/v0.15.0), 1 day ago) - The Sylius stack is a set of tools for your Symfony projects.
+- [scheb/2fa](https://github.com/scheb/2fa) ([v8.8.1](https://github.com/scheb/2fa/releases/tag/v8.8.1), 5 days ago) - Two-factor authentication for Symfony applications 🔐
 - [Sylius/SyliusGridBundle](https://github.com/Sylius/SyliusGridBundle) ([v1.16.1](https://github.com/Sylius/SyliusGridBundle/releases/tag/v1.16.1), 4 months ago) - Generic data grids for Symfony applications, support Doctrine and custom drivers, sorting, filtering, actions and field types.
 
 #### 👷 Latest projects I've contributed to :
 
 
-- [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser. (today)
+- [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser. (1 day ago)
 - [opencolibri/starter](https://github.com/opencolibri/starter) - Website and documentation of Colibri Starter (starter.opencolibri.org) (2 weeks ago)
 - [Sylius/Stack](https://github.com/Sylius/Stack) - The Sylius stack is a set of tools for your Symfony projects. (2 months ago)
 - [Sylius/BootstrapAdminUi](https://github.com/Sylius/BootstrapAdminUi) - [READ-ONLY] (5 months ago)
@@ -36,22 +36,22 @@ Once upon a time, I used to be an MFL Teacher 👩‍🏫 (French & Spanish) in 
 
 #### ⛵ Latest PRs :
 
-- [test: add mutation testing with Stryker on the layout and i18n logic](https://github.com/stlgaits/linkedin-banner-preview/pull/10) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
-- [refactor: migrate to TypeScript (strict)](https://github.com/stlgaits/linkedin-banner-preview/pull/9) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
-- [test: add Playwright end-to-end tests and run them in CI](https://github.com/stlgaits/linkedin-banner-preview/pull/8) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
-- [docs: link the live demo, deploy to Pages on every push to main](https://github.com/stlgaits/linkedin-banner-preview/pull/7) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
-- [docs: add contributing guide, issue and PR templates](https://github.com/stlgaits/linkedin-banner-preview/pull/6) (MERGED, today) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [test: add mutation testing with Stryker on the layout and i18n logic](https://github.com/stlgaits/linkedin-banner-preview/pull/10) (MERGED, 1 day ago) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [refactor: migrate to TypeScript (strict)](https://github.com/stlgaits/linkedin-banner-preview/pull/9) (MERGED, 1 day ago) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [test: add Playwright end-to-end tests and run them in CI](https://github.com/stlgaits/linkedin-banner-preview/pull/8) (MERGED, 1 day ago) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [docs: link the live demo, deploy to Pages on every push to main](https://github.com/stlgaits/linkedin-banner-preview/pull/7) (MERGED, 1 day ago) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
+- [docs: add contributing guide, issue and PR templates](https://github.com/stlgaits/linkedin-banner-preview/pull/6) (MERGED, 1 day ago) [stlgaits/linkedin-banner-preview](https://github.com/stlgaits/linkedin-banner-preview) - Preview your LinkedIn banner on company pages and profiles, desktop and mobile. Single-file build, nothing leaves your browser.
 
 #### ⭐ Recent Stars
 
 - [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh) - a social media for devs
-(today)
+(1 day ago)
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 (3 weeks ago)
 - [bakslashHQ/static-site-bundle](https://github.com/bakslashHQ/static-site-bundle) - Prerender your Symfony routes into a static site, ready to serve from any static host or CDN.
 (1 month ago)
 - [Spomky/ApiPlatformCon-2026](https://github.com/Spomky/ApiPlatformCon-2026) - Slides from ApiPlatformCon 2026.
-(1 month ago)
+(2 months ago)
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 (3 months ago)
 
